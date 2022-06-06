@@ -1,0 +1,16 @@
+PROJECT TITLE: 02.03 Math Class Methods/ PyTheorem.java
+PURPOSE OF PROJECT: To use Math class methods to calculate the hypotenuse of two right triangles.
+VERSION or DATE: 10/13/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I can access and find pre-defined methods on the Java API website provided by BlueJ. 
+      Using the different math methods interchangeably was easy. 
+      I had to be aware of small typos, errors pop up while compiling.
+      
+<-s>: At first, I had trouble navigating through the Java API website (BlueJs) to find pre-defined methods. Practice navigating through the 
+      website while doing this assignment was helpful in understanding how to use the website. 
+******************************************************************************************************************************************
+
+In the future: I hope to use the Java API more frequently and understand how to use it. 

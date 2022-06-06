@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MakingMethodCalls
+comment0.text=\r\n\ Instruction\:\ Without\ modifying\ any\ of\ the\ method\ signatures,\ correct\ add\ method\ calls\ to\ the\ already\ created\ methods\ in\ the\ main()\ below\ \r\n\ Purpose\:\ To\ call\ void\ and\ return\ methods,\ in\ the\ main\ method\r\n\ APCS\ Team\ 2020\ (Edited\ by\:\ Zuha\ Hassen)\r\n\ Date\:\ October\ 22th,\ 2021\r\n\r\n
+comment1.params=
+comment1.target=void\ addTheseTwo()
+comment2.params=a\ b
+comment2.target=void\ multiplyTheseTwo(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ divideTheseTwo(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

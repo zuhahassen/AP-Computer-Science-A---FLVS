@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PyTheorem
+comment0.text=\r\n\ Purpose\:\ To\ use\ Math\ class\ methods\ to\ calculate\ the\ hypotenuse\ of\ two\ right\ triangles.\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ October\ 8th,\ 2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

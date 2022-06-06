@@ -1,0 +1,15 @@
+PROJECT TITLE: 02.10 OnlinePurchase/ BuyMovieTickets.java
+PURPOSE OF PROJECT: Prompt the user to input information to buy movie tickets and then provide a receipt. 
+VERSION or DATE: 10/25/21
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I found it useful to refer to the Java API to understand how to use certain methods. 
+      It was quite resourceful to use string methods together to achieve a desired output.
+      I wrote pseudocode before actually coding.
+      
+<-s>: The pseudocode I wrote was quite challenging to interpret as it was quite disorganized. 
+******************************************************************************************************************************************
+
+In the future: I want to feel comfortable using scanner class methods and parsing methods. I also want to start planning more efficiently before I start coding. 

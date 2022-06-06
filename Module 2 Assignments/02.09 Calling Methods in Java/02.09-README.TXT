@@ -1,0 +1,14 @@
+ROJECT TITLE: 02.09 Calling Methods in Java/ MakingMethodCalls.java
+PURPOSE OF PROJECT: To call void and return methods, in the main method.  
+VERSION or DATE: 10/22/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: It was interesting to see how you could produce methods that can contain code, which you can use in the main method. 
+      I think the idea of top-down approach is an efficient way of organizing your code. 
+      
+<-s>: Unless I look carefully at each method, I can confuse the void with parameters method with the void without parameters method. 
+******************************************************************************************************************************************
+
+In the future: I hope to feel more comfortable using return methods. I hope to be able to use methods and call on them properly in the future. 
