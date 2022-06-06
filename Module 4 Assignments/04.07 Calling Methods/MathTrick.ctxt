@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MathTrick
+comment0.text=\r\n\ \r\n\ @author\ FLVS\ AP\ CSA\ team\r\n\ @version\ 2021\r\n\ \r\n\ This\ Math\ trick\ and\ many\ more\ can\ be\ found\ at\:\ http\://www.pleacher.com/handley/puzzles/mtricks.html\r\n\r\n
+comment1.params=
+comment1.target=int\ getRandomNum()
+comment1.text=\r\n\ \r\n\ \ DO\ NOT\ USE\ ARRAYS\ OR\ CONVERT\ NUMBERS\ TO\ STRING\ UNTIL\ STEP\ 7\ ******\r\n\r\n
+comment2.params=num
+comment2.target=int\ reverseDigits(int)
+comment3.params=str
+comment3.target=java.lang.String\ replaceLtr(java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ reverseString(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,16 @@
+PROJECT TITLE: 04.07 Calling Methods/ MathTrick.java
+PURPOSE OF PROJECT: To complete static methods given in the starter code java file
+DATE: 12/27/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I can correctly create a method that return the correct data type
+      I understand how to call a method when needed 
+      
+<-s>: At first, I had trouble creating a method and understanding parts of a method. Referring back to the example presented in the module
+helped me understand how to declare and complete the static methods used in this programs. 
+******************************************************************************************************************************************
+
+In the future: I hope to learn how to better declare and intialize static methods in my future programs. 
+

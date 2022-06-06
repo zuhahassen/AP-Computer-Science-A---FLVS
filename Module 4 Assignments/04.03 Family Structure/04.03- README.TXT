@@ -1,0 +1,17 @@
+PROJECT TITLE: 04.03 Family Structure / Family.java
+PURPOSE OF PROJECT: To calculate the the probability that a family with two children 
+will consist of two boys, a boy and a girl, or two girls using a data file.
+DATE: 11/30/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I can declare and initialize a String object to receive the tokens from the file
+      I understand how to effectively use a while loop conidtion to check each token that is being read.
+      
+<-s>: At first, I had trouble understanding the boolean methods of the Scanner class, studying the API excerpts was helpful as it gave a detailed explanation 
+      of what the method does. 
+******************************************************************************************************************************************
+
+In the future: I hope to continue to evaluate and examine large data files using methods of the Scanner class. I also want to start making my 
+own text files and make a program to examine it. 

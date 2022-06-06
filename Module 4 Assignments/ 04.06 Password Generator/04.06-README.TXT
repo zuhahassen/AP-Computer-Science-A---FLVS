@@ -1,0 +1,15 @@
+PROJECT TITLE: 04.06 Password Generator / SecretPasscode.java
+PURPOSE OF PROJECT: To write a program that can generate random/secret passwords when the length is selected by the user
+DATE: 12/27/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I can declare and initialize a String object to receive the tokens from the file
+      I understand how to write to a file and read from a file. 
+      
+<-s>: At first, I had trouble understanding how I could present a way for the user to generate as many passwords as they want Reviewing previous
+programs, helped me figure out how I could desgin a program that can generate several passwordsfor the user. 
+******************************************************************************************************************************************
+
+In the future: I hope to learn how to better use an ASCII chart to genertate desired characters in my programs. 
