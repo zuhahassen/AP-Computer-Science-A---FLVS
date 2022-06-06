@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradesV2
+comment0.text=\r\n\ Use\ arithmetic/assignment\ operators\ and\ the\ increment\ operator\ to\ caculate\ the\ average\ score\ of\ the\ tests\ scores.\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ October\ 5th,\ 2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

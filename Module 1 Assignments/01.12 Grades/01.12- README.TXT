@@ -1,0 +1,16 @@
+PROJECT TITLE: 01.12 Grades / GradesV2.java
+PURPOSE OF PROJECT: Use arithmetic/assignment operators and the increment operator to caculate the average score of the tests scores.
+VERSION or DATE: October 6th, 2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: It was easy to differentiate between arithmetic/assignment operators and the increment operator.
+      I used increment operators to manipulate with the value of the variables.
+      
+      
+<-s>: It is important to notice what types of operators you're using because I had trouble figuring out what error I had wrong until I noticed I used the wrong operator for a variable.
+
+******************************************************************************************************************************************
+
+In the future: I hope to feel more comfortable using the arithmetic/assignment operators and increment operators. I also hope to use "\t" and "\n" more when I structure print statements.

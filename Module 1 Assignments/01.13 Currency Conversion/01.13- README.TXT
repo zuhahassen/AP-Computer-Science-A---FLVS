@@ -1,0 +1,18 @@
+PROJECT TITLE: 01.13 Currency Conversion / CurrencyConversion.java
+PURPOSE OF PROJECT: With appropriate calculations and arithmetic expressions, convert currencies using exchange rates.
+VERSION or DATE: October 6th, 2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: Once I understood how to write arithmetic expressions and declare variables, it was easy to envision what the result of the caculations assigned to the variables were. 
+      I comprehended how to use concatenation, casting, and operators to achieve a desired output. 
+      I had to be aware of which operators I had to use for each variable. 
+      
+<-s>: I mistakenly tend to declare the wrong variable instead of the variable I desired to declare since some variables have similiar names.
+
+******************************************************************************************************************************************
+
+In the future: I hope to get into the habit of using casting when necessary and use operators to assign caculations to variables that can be manipulated.
+
+Resources: http://www.exchangerate.com/ (website used for exchange rates)

@@ -1,0 +1,18 @@
+PROJECT TITLE: 01.09 Assignment/ 01.09 Assignment.java
+PURPOSE OF PROJECT: The Calculations class performs addition, subtraction, multiplication, division, and 
+modulus operations on integers and decimals and outputs to the screen the results of each operation.
+DATE: 09/27/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: Understood the difference between a double variable vs a integer variable and how declare them.  
+      Had the general idea of how to put strings together. 
+      
+      
+<-s>: I made small grammar mistakes with declaring variables. 
+
+******************************************************************************************************************************************
+
+In the future: I hope to be aware of when it is appropriate to use variables and values in print statements. I want to start being in the habit 
+with using variables instead of values. 
