@@ -1,0 +1,16 @@
+PROJECT TITLE: 03.05 Body Mass Index (BMI)/ BMI.java
+PURPOSE OF PROJECT: To calculate the user's BMI and determine their BMI category, when given user's weight and height.
+VERSION or DATE: 10/28/21
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I found it useful to refer to back to the 02.10 challenge program and example programs.
+      I have a better understanding of how to use parsing.
+      The pseudocode I wrote was helpful when I constructed the if-else-of conditional statement.
+          
+<-s>: I had to be carefully idenitfy which variable I was using (using the wrong variable = undesired outcome)
+******************************************************************************************************************************************
+
+In the future: I want to feel comfortable using conditional statements, I want to syntactically and logically construct correct and accurate 
+conditional statements. 

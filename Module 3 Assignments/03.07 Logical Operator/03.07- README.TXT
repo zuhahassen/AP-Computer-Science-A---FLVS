@@ -1,0 +1,17 @@
+PROJECT TITLE: 03.07 Logical Operator/ TDEE.java
+PURPOSE OF PROJECT: To calculate total daily energy expenditure when given user's activity factor and basal metabolic rate.
+VERSION or DATE: 11/1/2021
+AUTHORS: Zuha Hassen
+
+********************************** P  M R *************************************************************************************************
+
+<+s>: I found it useful to refer to back to the 03.05 program and example programs that dealt with comparing String objects.
+      I have a better understanding of how to use logical operators. 
+      The pseudocode I wrote was helpful when I constructed the if-else-if conditional statement.
+          
+<-s>: I had to be careful with how I wrote my conditional statement, to ensure that the proper information was associated with the correct option. 
+******************************************************************************************************************************************
+
+In the future: I want to start being in the habit of writing pseudocode before coding because I found it extremely helpful to have the prompt 
+be simplified, making it easier to achieve the desired outcome. I also want to be able to continue to compare String objects properly and correctly 
+compare them. 
