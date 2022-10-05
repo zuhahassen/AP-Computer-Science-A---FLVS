@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FindMinMax
+comment0.text=\r\n\ This\ program\ demonstrates\ the\ use\ of\ the\ Integer\ class\ constants\r\n\ MIN_VALUE\ and\ MAX_VALUE\ when\ finding\ the\ minimum\ and\ maximum\r\n\ value\ within\ a\ numeric\ array.\r\n\r\n\ @author\ David\ J.\ Farber\r\n\ @version\ 06/06/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ThisDemoBTester
+comment1.params=
+comment1.target=ThisDemoB()
+comment2.params=name
+comment2.target=ThisDemoB(java.lang.String)
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
