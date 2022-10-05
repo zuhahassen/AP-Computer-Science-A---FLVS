@@ -1,0 +1,14 @@
+PROJECT TITLE: 07.07 Candidate/ ElectionTesterV7.java/ ElectionTesterV8.java
+PURPOSE OF PROJECT: To create a mock election to demonstrate traversal and replacement algorithms
+DATE: 4/14/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned to iterate through an array to insert and delete elements in an array and ArrayList 
+      A better understanding of the difference between an array and ArrayList when deleting and inserting an element
+      
+<-s>: I was a bit confused as to how to modify other methods so that they can work with null entries, looking through the inventory programs 
+      helped me understand how to deal with the other methods.
+******************************************************************************************************************************************
+In the future: I hope to practice more with deleting elements in an array, to have a better understanding of how to delete an element in 
+               a traditional array.
+

@@ -1,0 +1,13 @@
+PROJECT TITLE: 10.05 Fibonacci.java / FibonacciTester.java
+PURPOSE OF PROJECT: To recursively calculate the nth Fibonacci number
+DATE: 5/23/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Understood recursive methods
+      A better understanding of how to use the recusive methods and see the big picture - the end outcome 
+      
+<-s>: I had difficulty understanding the nature of recursive methods, as it requires a lot of memory - making it sometimes an elegant solution 
+compared to iterative solutions. 
+******************************************************************************************************************************************
+In the future: I hope to become better at writing recursive methods in future programs. 
+

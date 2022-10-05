@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ElectionTesterV7
+comment0.text=\r\n\ Purpose\:\ To\ create\ a\ mock\ election\ to\ demonstrate\ traversal\ and\ replacement\ algorithms\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 04/14/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=votes\ location
+comment10.target=void\ deleteByLoc(Candidate[],\ int)
+comment11.params=votes\ find
+comment11.target=void\ deleteByNam(Candidate[],\ java.lang.String)
+comment2.params=votes
+comment2.target=void\ printElection(Candidate[])
+comment3.params=votes
+comment3.target=int\ countVotes(Candidate[])
+comment4.params=votes\ voteTotal
+comment4.target=void\ electionTable(Candidate[],\ double)
+comment5.params=votes\ find\ replace
+comment5.target=void\ changeName(Candidate[],\ java.lang.String,\ java.lang.String)
+comment6.params=votes\ find\ replace
+comment6.target=void\ changeVote(Candidate[],\ java.lang.String,\ int)
+comment7.params=votes\ find\ replaceNam\ replaceVote
+comment7.target=void\ changeElement(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=votes\ location\ addN\ addV
+comment8.target=void\ insertCandidate1(Candidate[],\ int,\ java.lang.String,\ int)
+comment9.params=votes\ find\ addN\ addV
+comment9.target=void\ insertCandidate2(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+numComments=12
