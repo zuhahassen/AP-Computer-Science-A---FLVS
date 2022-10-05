@@ -1,0 +1,11 @@
+PROJECT TITLE: 10.08 Card.java/ CardTester.java / Deck.java / DeckTester.java
+PURPOSE OF PROJECT: Deal with a deck of cards
+DATE: 05/25/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Understood how to implement constructors
+      A better understanding of object oriented programming
+      
+<-s>: I first was confused as to how to deal the cards, I read over the described algorithms and decided to go with 2 (decrementing the size)
+******************************************************************************************************************************************
+In the future: I hope to make my code adn future programs more efficient with object oriented programming.

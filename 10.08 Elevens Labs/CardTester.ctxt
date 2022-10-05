@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CardTester
+comment0.text=\r\n\ This\ is\ a\ class\ that\ tests\ the\ Card\ class.\r\n\r\n\ \ <\ Your\ Name\ >\r\n\ \ <\ Today's\ Date\ >\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ in\ this\ class\ checks\ the\ Card\ operations\ for\ consistency.\r\n\ @param\ args\ is\ not\ used.\r\n
+numComments=2

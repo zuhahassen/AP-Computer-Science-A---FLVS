@@ -1,0 +1,13 @@
+PROJECT TITLE: 10.07 Product.java / ProductTester.java 
+PURPOSE OF PROJECT: Use sorting algorithms to sort through an entry of products
+DATE: 05/24/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Understood merge sort
+      A better understanding of the different sorting algorithms (selection, insertion, and merge)
+      
+<-s>: I had difficulty understanding the recursive nature of merge sort, anaylze the example program provided (TestListing4) line by line helped
+clear most of the confusion I had.  
+******************************************************************************************************************************************
+In the future: I hope to make it more efficient when I'm sorting through an array, by using the merge sort algorithm
+

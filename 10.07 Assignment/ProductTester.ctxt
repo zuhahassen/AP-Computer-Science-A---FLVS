@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ProductTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ProductTester\ here.\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 5/24/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ print(Product[])
+comment3.params=arr\ order
+comment3.target=void\ sortProductNum(Product[],\ int)
+comment4.params=arr\ order
+comment4.target=void\ sortName(Product[],\ int)
+comment5.params=arr\ low\ high
+comment5.target=void\ sortQuantity(Product[],\ int,\ int)
+comment6.params=arr\ low\ mid\ high
+comment6.target=void\ mergeQuantity(Product[],\ int,\ int,\ int)
+comment7.params=arr\ low\ high
+comment7.target=void\ sortPrice(Product[],\ int,\ int)
+comment8.params=arr\ low\ mid\ high
+comment8.target=void\ mergePrice(Product[],\ int,\ int,\ int)
+numComments=9

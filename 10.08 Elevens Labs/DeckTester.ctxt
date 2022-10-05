@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DeckTester
+comment0.text=\r\n\ This\ is\ a\ class\ that\ tests\ the\ Deck\ class.\r\n\r\n\ \ Zuha\ Hassen\r\n\ \ 05/25/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ in\ this\ class\ checks\ the\ Deck\ operations\ for\ consistency.\r\n\ @param\ args\ is\ not\ usemyDeck.\r\n
+numComments=2
