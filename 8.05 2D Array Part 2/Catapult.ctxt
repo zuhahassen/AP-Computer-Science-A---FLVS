@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Catapult
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Catapult\ here.\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 04/15/2022\r\n
+comment1.params=v\ d
+comment1.target=Catapult(double,\ double)
+comment2.params=v
+comment2.target=void\ setVelocity(double)
+comment3.params=
+comment3.target=double\ getVelocity()
+comment4.params=d
+comment4.target=void\ setDegrees(double)
+comment5.params=
+comment5.target=double\ getDegrees()
+comment6.params=dis
+comment6.target=void\ setDistance(double)
+comment7.params=
+comment7.target=double\ getDistance()
+comment8.params=
+comment8.target=void\ calcDistance()
+numComments=9

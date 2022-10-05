@@ -1,0 +1,12 @@
+PROJECT TITLE: 07.09 Movie/ MovieTesterV2.java
+PURPOSE OF PROJECT: To sort a list of movies (descending or ascending order)
+DATE: 4/14/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned how to use the insertion sort algorithm to sort through an array 
+      A better understanding of insertion, placing elements into order with two arrays and one
+      
+<-s>: I was a bit conflicted as to how to change the order from ascending to descending, then as I read through the virtual notes again I realized
+that I had to simply switch the inequality symbol in the if statement. 
+******************************************************************************************************************************************
+In the future: I hope to practice more with the insertion sort algorithms with other algorithms such as replacement or deletion.

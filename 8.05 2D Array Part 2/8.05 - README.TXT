@@ -1,0 +1,12 @@
+PROJECT TITLE: 08.05 Catapult/ CatapultTesterV1.java
+PURPOSE OF PROJECT: To calculate trajectory of a projectile based on launch angles and launch velocities
+DATE: 4/15/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned how to store values in a two-dimensional array and print them out
+      A better understanding of 2D Arrays
+      
+<-s>: I was a bit confused since I sometimes assumed that the rows and columns began with a 1 instead of a 0 - starting index position
+******************************************************************************************************************************************
+In the future: I hope to practice more with two-dimensional arrays in future programs. 
+

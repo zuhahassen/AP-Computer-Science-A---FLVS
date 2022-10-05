@@ -1,0 +1,12 @@
+PROJECT TITLE: 08.03 Contact/ ContactTesterV1.java
+PURPOSE OF PROJECT: To perform searches in a contact collection
+DATE: 4/15/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned how to use binary and sequential searching methods in one program
+      A better understanding of binary searching and sequential searching
+      
+<-s>: I was conflicted on how to incorporate substring into the sequential searching method, I added the substring when the the for loop traverses
+through the array to look for matches
+******************************************************************************************************************************************
+In the future: I hope to practice more with using binary searching and sequential searching, interchangeably, in future programs

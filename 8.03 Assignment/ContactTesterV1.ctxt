@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ContactTesterV1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ContactTesterV1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=contacts\ toFind
+comment10.target=void\ findPhoneNum(Contact[],\ java.lang.String)
+comment11.params=contacts\ toFind
+comment11.target=void\ findEmail(Contact[],\ java.lang.String)
+comment2.params=contacts
+comment2.target=void\ printContact(Contact[])
+comment3.params=source\ Num
+comment3.target=void\ insertionName(Contact[],\ int)
+comment4.params=source\ Num
+comment4.target=void\ insertionRelation(Contact[],\ int)
+comment5.params=contacts\ toFind
+comment5.target=void\ binarySearchName(Contact[],\ java.lang.String)
+comment6.params=contacts\ low\ toFind
+comment6.target=void\ linearPrintName(Contact[],\ int,\ java.lang.String)
+comment7.params=contacts\ toFind
+comment7.target=void\ binarySearchRelation(Contact[],\ java.lang.String)
+comment8.params=contacts\ low\ toFind
+comment8.target=void\ linearPrintRelation(Contact[],\ int,\ java.lang.String)
+comment9.params=contacts\ toFind
+comment9.target=void\ findBday(Contact[],\ java.lang.String)
+numComments=12

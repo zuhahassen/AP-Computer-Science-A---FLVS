@@ -1,0 +1,13 @@
+PROJECT TITLE: 07.11 Magpie4.java/ MagpieRunner4.java
+PURPOSE OF PROJECT: To carry a conversation
+DATE: 4/15/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned to alert code to get certain responses when certain keywords/groups of words are inputted into the chat
+      A better understanding of responses and how to search for keywords 
+      
+<-s>: I was a bit conflicted as to how to convert the random responses into an array, then I realized that I could use a for and if loop to conduct 
+the same task
+******************************************************************************************************************************************
+In the future: I hope to be attentive to make sure that my programs are efficient and coherent - for example, using arrays. 
+

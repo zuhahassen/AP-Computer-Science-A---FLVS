@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Magpie4
+comment0.text=\r\n\ A\ program\ to\ carry\ on\ conversations\ with\ a\ human\ user.\r\n\ This\ version\:\r\n\ \ \ \ \ \ -\ Uses\ advanced\ search\ for\ keywords\r\n\ \ \ \ \ \ -\ Will\ transform\ statements\ as\ well\ as\ react\ to\ keywords\r\n\r\n\ Code\ adapted\ from\ work\ by\ Laurie\ White\ for\ the\ College\ Board.\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 4/14/2022\r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment1.text=\r\n\ Get\ a\ default\ greeting\r\n\ @return\ a\ greeting\r\n
+comment2.params=statement
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+comment2.text=\r\n\ Gives\ a\ response\ to\ a\ user\ statement\r\n\r\n\ @param\ statement\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ user\ statement\r\n\ @return\ a\ response\ based\ on\ the\ rules\ given\r\n
+comment3.params=statement
+comment3.target=java.lang.String\ transformIWantToStatement(java.lang.String)
+comment3.text=\r\n\ Take\ a\ statement\ with\ "I\ want\ to\ <something>."\ and\ transform\ it\ into\r\n\ "What\ would\ it\ mean\ to\ <something>?"\r\n\ @param\ statement\:\ the\ user\ statement,\ assumed\ to\ contain\ "I\ want\ to"\r\n\ @return\ the\ transformed\ statement\r\n
+comment4.params=statement
+comment4.target=java.lang.String\ transformYouMeStatement(java.lang.String)
+comment4.text=\r\n\ Take\ a\ statement\ with\ "you\ <something>\ me"\ and\ transform\ it\ into\r\n\ "What\ makes\ you\ think\ that\ I\ <something>\ you?"\r\n\ @param\ statement\:\ the\ user\ statement,\ assumed\ to\ contain\ "you"\ followed\ by\ "me"\r\n\ @return\ the\ transformed\ statement\r\n
+comment5.params=statement\ goal\ startPos
+comment5.target=int\ findKeyword(java.lang.String,\ java.lang.String,\ int)
+comment5.text=\r\n\ Search\ for\ one\ word\ in\ phrase.\ \ The\ search\ is\ not\ case\ sensitive.\r\n\ This\ method\ will\ check\ that\ the\ given\ goal\ is\ not\ a\ substring\ of\ a\ longer\ string\r\n\ (so,\ for\ example,\ "I\ know"\ does\ not\ contain\ "no").\r\n\ @param\ statement\:\ the\ string\ to\ search\r\n\ @param\ goal\:\ the\ string\ to\ search\ for\r\n\ @param\ startPos\:\ the\ character\ of\ the\ string\ to\ begin\ the\ search\ at\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ goal\ in\ statement\ or\ -1\ if\ it's\ not\ found\r\n
+comment6.params=statement\ goal
+comment6.target=int\ findKeyword(java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ Search\ for\ one\ word\ in\ phrase.\ \ The\ search\ is\ not\ case\ sensitive.\r\n\ This\ method\ will\ check\ that\ the\ given\ goal\ is\ not\ a\ substring\ of\ a\ longer\ string\r\n\ (so,\ for\ example,\ "I\ know"\ does\ not\ contain\ "no").\ \ The\ search\ begins\ at\ the\ beginning\ of\ the\ string.\r\n\ @param\ statement\:\ the\ string\ to\ search\r\n\ @param\ goal\:\ the\ string\ to\ search\ for\r\n\ @return\ the\ index\ of\ the\ first\ occurrence\ of\ goal\ in\ statement\ or\ -1\ if\ it's\ not\ found\r\n
+comment7.params=
+comment7.target=java.lang.String\ getRandomResponse()
+comment7.text=\r\n\ Pick\ a\ default\ response\ to\ use\ if\ nothing\ else\ fits.\r\n\ @return\ a\ non-committal\ string\r\n
+numComments=8

@@ -1,0 +1,12 @@
+PROJECT TITLE: 07.08 Student.java/ StudentTesterV1.java
+PURPOSE OF PROJECT: To design a program that will traverse, replace, insert, and delete items within a grade book
+DATE: 4/14/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned how iterate through an ArrayList to create a desired output 
+      A better understanding of how to use an ArrayList effectively, as I can expand and shrink its size unlike a traditional array 
+      
+<-s>: I had trouble understanding how to intialize the quiz scores, I intialized an array to encompass the five scores into one array
+******************************************************************************************************************************************
+In the future: I hope to practice more with creating methods that traverse, replace, insert, and delete items in array in future programs. 
+
