@@ -1,0 +1,13 @@
+PROJECT TITLE: 09.04 Rectangle4.java / ShapesTesterV4.java / Box4.java / Cube4.java / Square4.java / Rhombus4.java
+PURPOSE OF PROJECT: To demonstrate classes that override
+DATE: 4/16/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Understood overriding methods
+      A better understanding of how to override the toString and equals method
+      
+<-s>: I had difficulty understanding how the equals method of the Object class is overrided, constrasting it with how the toString method can be overide
+helped me understand how the equal methods are overrided 
+******************************************************************************************************************************************
+In the future: I hope to make my code more efficient with overriding method that deal with objects of related inheritance
+

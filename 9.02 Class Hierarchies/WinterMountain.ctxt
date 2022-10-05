@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WinterMountain
+comment0.text=\r\n\ Purpose\:\ A\ class\ hierarchy\ of\ simple\ terrains\r\n\ \r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 04/16/2022\r\n
+comment1.params=l\ w\ mountains\ t
+comment1.target=WinterMountain(int,\ int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getTemp()
+numComments=3

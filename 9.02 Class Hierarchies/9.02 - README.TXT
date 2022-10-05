@@ -1,0 +1,11 @@
+PROJECT TITLE: 09.02 Terrain.java/ Forest.java / Mountain.java / WinterMountain.java / GameTerrainTester.java / Jungle.java / TropicalForest.java
+PURPOSE OF PROJECT: A class hierarchy of simple terrains
+DATE: 4/16/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Understood the relationship between the classes
+      A better understanding of extending a class
+      
+<-s>: I'm starting to understand and interpert the class hierarchy diagram, going through examples on emiacs helped me understand
+******************************************************************************************************************************************
+In the future: I hope to learn more about the class hierarchy diagram and create diagrams before coding

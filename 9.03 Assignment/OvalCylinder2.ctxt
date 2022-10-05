@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OvalCylinder2
+comment0.text=\r\n\ Purpose\:\ To\ demonstrate\ polymorphism\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 04/16/20222\r\n
+comment1.params=x\ y\ rad1\ rad2\ h
+comment1.target=OvalCylinder2(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

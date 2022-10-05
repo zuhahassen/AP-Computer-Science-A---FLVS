@@ -1,0 +1,12 @@
+PROJECT TITLE: 09.03 Circle2.java / Oval2.java / Cylinder2.java / OvalCylinder2.java / CircleTesterV2.java
+PURPOSE OF PROJECT: to demonstrate polymorphism
+DATE: 4/16/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Understood polymorphism 
+      A better understanding of creating a method that can handle objects related through inheritance
+      
+<-s>: I had difficulty understanding how to create an ArrayList of the objects, looking back at the example programs presented I was able to figure
+out how to create an ArrayList
+******************************************************************************************************************************************
+In the future: I hope to make my code more efficient using polymorphism when dealing with objects of related inheritance

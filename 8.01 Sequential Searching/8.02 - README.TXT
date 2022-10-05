@@ -1,0 +1,14 @@
+PROJECT TITLE: 08.01 Music/ MusicTesterV1.java
+PURPOSE OF PROJECT: To perform a search in a collection of music
+DATE: 4/15/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned how to use several sequential search methods to perform searches within an array
+      A better understanding of sequential searching 
+      
+<-s>: I was a bit confused on how to stop a sequential search method from completely traversing through the entire array,using a break helped
+prevent it from going through the entire array.  
+******************************************************************************************************************************************
+In the future: I hope to learn about binary searching and to compare it with sequential searching - as they're both different algortihms used
+to perform searches.
+

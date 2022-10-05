@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Box4
+comment0.text=\r\n\ This\ class\ defines\ a\ Box\ object\ by\ extending\r\n\ Rectangle\ and\ includes\ height.\r\n\ The\ toString\ method\ has\ been\ added.\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 04/16/2022\r\n
+comment1.params=l\ w\ h
+comment1.target=Box4(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=b
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

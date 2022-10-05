@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ShapesTester4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=void\ showEffectBoth(Rectangle4)
+comment3.params=r1\ r2
+comment3.target=void\ compare(Rectangle4,\ Rectangle4)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rhombus4
+comment0.text=\r\n\ This\ class\ defines\ a\ Rhombus\ object\ by\ extending\r\n\ Square.\r\n\ The\ toString\ method\ has\ been\ added.\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 04/16/2022\r\n
+comment1.params=l\ w
+comment1.target=Rhombus4(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=b
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4
