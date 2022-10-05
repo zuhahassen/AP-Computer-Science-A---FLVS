@@ -1,0 +1,12 @@
+PROJECT TITLE: 05.08 Assignment/ AthleteV8.java/ AthleteV8Tester.java
+PURPOSE OF PROJECT: define an implementation class for an object of my choice
+DATE: 1/6/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned to instantiate multiple objects 
+      A better understanding of an OOP (Object oriented programming)
+      
+<-s>: At first, I had trouble understanding how to construct a default constructor and a loaded constructor, referring to the PlanetV8 program
+helped me address the questions I had in mind. 
+******************************************************************************************************************************************
+In the future: I hope to practice more with loaded constructors and learn to better intialize several objects.

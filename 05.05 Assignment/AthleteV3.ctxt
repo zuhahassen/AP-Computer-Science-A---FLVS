@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AthleteV3
+comment0.text=\r\n\ Purpose\:\ Athlete\ V3\ Implementation\ Class\r\n\r\n\ @author\ Zuha\ Hassen\r\n\ @version\ 1/4/2022\r\n
+comment1.params=
+comment1.target=AthleteV3()
+comment2.params=miles\ time
+comment2.target=double\ runningSpeed(double,\ double)
+comment3.params=day\ milesRun\ timeToRun\ speed
+comment3.target=void\ displayRunningStats(java.lang.String,\ double,\ double,\ double)
+numComments=4

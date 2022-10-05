@@ -1,0 +1,12 @@
+PROJECT TITLE: 05.05 Assignment/ AthleteV3.java/ AthleteV3Tester.java
+PURPOSE OF PROJECT: define an implementation class for an object of my choice
+DATE: 1/4/2022
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Learned to construct an object
+      A better understanding of an OOP (Object oriented programming)
+      
+<-s>: At first, I had trouble understanding how to construct the implementation class, referring to the PlanetV3 program helped me construct 
+this program
+******************************************************************************************************************************************
+In the future: I hope to practice more with default constructors and learn to better intialize instance methods (not static methods).

@@ -1,0 +1,11 @@
+PROJECT TITLE: 05.02 Defining New Methods/ PlanetGravity.java 
+PURPOSE OF PROJECT: To calculate the surface gravity (g) of a planet in our solar system
+DATE: 12/30/2021 
+AUTHORS: Zuha Hassen 
+********************************** P M R ************************************************************************************************* 
+<+s>: Utilized arrays in the program to calculate the surface gravity of more than one planet
+      
+<-s>: At first, I had trouble understanding how to use an array and modify it by loopoing through it. Referring back to the examples presented 
+in the eIMACS lessons on static methods helped.
+******************************************************************************************************************************************
+In the future: I hope to learn more about arrays and explore how they can be used in different scenarios.
